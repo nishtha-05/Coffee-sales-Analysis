@@ -1,0 +1,1 @@
+The Coffee Sales Analysis project aims to provide insights into coffee sales trends based on sales data. This project uses various data analysis techniques to visualize, identify patterns, and offer actionable insights for businesses in the coffee industry.
